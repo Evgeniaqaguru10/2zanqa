@@ -1,5 +1,5 @@
 import pytest
-from selene import browser
+from selene import browser, be, have
 
 
 @pytest.fixture
