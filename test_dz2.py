@@ -1,4 +1,5 @@
 import pytest
+from selene import browser
 
 
 @pytest.fixture
